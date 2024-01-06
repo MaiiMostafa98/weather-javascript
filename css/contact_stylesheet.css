@@ -1,0 +1,117 @@
+
+
+body
+{
+   background-color: rgb(54, 94, 122)
+}
+
+.navbar h4 
+{
+   color: #fffcfc !important;
+}
+
+.navbar .logo-img
+{
+   width: 50%;
+}
+
+.button
+{
+   border-radius: 20px;
+   border-color: transparent;
+   border-style: solid;
+   padding: 1px 20px;
+   background-color: transparent;
+   color: #fffcfc !important;
+  
+}
+
+.btn-color
+{
+  
+   border-radius: 20px;
+   border-color: rgba(0, 0, 0, 0.3) !important;
+   border-style: solid;
+   padding: 5px 20px;
+   background-color: transparent;
+   color: #fffcfc !important;
+}
+
+.btn-color:hover
+{
+   border-color: rgba(0, 0, 0, 0.3);
+
+}
+
+.button:hover
+{
+   border-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.overlay
+{
+   background-color: rgba(0, 0, 0, 0.3);
+   background-size: cover;
+   height: 100vh;
+}
+
+
+.input
+{
+   background-color: rgba(0, 0, 0, 0.7);
+}
+
+.card-width
+{
+   width: 100%;
+}
+
+.input-footer
+{
+   background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.icons
+{
+   width: 40px;
+   height: 40px;
+   border-radius: 50px;
+   border-style: solid;
+   border-color: rgba(0, 0, 0, 0.6);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: large;
+   background-color:transparent;
+   color: white;
+}
+
+.icons:hover
+{
+   background-color: rgba(0, 0, 0, 0.5);
+   color: #009ad8;
+   
+}
+
+.sub-btn
+{
+   border-color: rgba(0, 0, 0, 0.5) !important;
+   border-style: solid;
+   padding: 5px 20px;
+   background-color: transparent;
+   color: #fffcfc !important;
+}
+
+.size
+{
+   font-weight: 500;
+   font-size: 75;
+}
+
+
+.text-color
+{
+   color: transparent;
+}
